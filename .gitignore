@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+data/raw/*.csv
+data/processed/*.csv
