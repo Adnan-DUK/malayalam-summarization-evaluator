@@ -169,4 +169,4 @@ def write_audit_log(total_records, valid_records, invalid_records, log_path):
             if "row_number" in record:
                 file.write(f"Row number: {record['row_number']}\n")
 
-    print("Audit log created successfully!")
+    print("Audit log created successfully..!")
